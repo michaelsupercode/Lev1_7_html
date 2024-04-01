@@ -11,11 +11,11 @@ body {
   min-height: 70vh;
 }
 
-.basic {
+main {
   width: 50vw;
 }
 
-.basic:hover {
+main:hover {
   box-shadow: 0 0 11px rgba(33,33,33,.2); 
 }
 
