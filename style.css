@@ -4,15 +4,24 @@
     box-sizing: border-box;
 }
 
-body {
-  display: grid;
+header {
+    display: grid;
   align-items: center;
   justify-content: center;
-  min-height: 70vh;
+}
+
+body {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    min-height: 70vh;
 }
 
 main {
-  width: 50vw;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  padding: 1em;
 }
 
 main:hover {
